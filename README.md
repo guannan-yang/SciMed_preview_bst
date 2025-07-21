@@ -17,3 +17,4 @@ An .bst file use with the package `natbib` that gives a preview of your referenc
 \bibliography{brief-ref}
 ```
 
+p.s. It's sad that neither ChatGPT nor Gemini can write .bst in acceptable quality. 
